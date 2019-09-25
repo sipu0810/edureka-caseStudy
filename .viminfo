@@ -22,33 +22,40 @@
 # Registers:
 
 # File marks:
-'0  14  28  ~/sample-project/newFeature.html
-'1  58  0  ~/sample-project/index.html
-'2  19  28  ~/sample-project/newFeature.html
-'3  57  6  ~/sample-project/newFeature.html
+'0  1  2  ~/sample-project/newFeature.html
+'1  1  1  ~/sample-project/index.html
+'2  14  36  ~/sample-project/newFeature.html
+'3  20  3  ~/sample-project/newFeature.html
+'4  58  0  ~/sample-project/index.html
+'5  19  28  ~/sample-project/newFeature.html
+'6  58  6  ~/sample-project/newFeature.html
 
 # Jumplist (newest first):
--'  14  28  ~/sample-project/newFeature.html
--'  1  0  ~/sample-project/newFeature.html
--'  58  0  ~/sample-project/index.html
+-'  1  2  ~/sample-project/newFeature.html
 -'  1  1  ~/sample-project/index.html
+-'  14  36  ~/sample-project/newFeature.html
+-'  20  3  ~/sample-project/newFeature.html
+-'  58  0  ~/sample-project/index.html
 -'  19  28  ~/sample-project/newFeature.html
--'  57  6  ~/sample-project/newFeature.html
--'  58  0  ~/sample-project/index.html
--'  1  1  ~/sample-project/index.html
+-'  58  6  ~/sample-project/newFeature.html
 -'  18  28  ~/sample-project/newFeature.html
+-'  57  6  ~/sample-project/newFeature.html
 -'  56  6  ~/sample-project/newFeature.html
+-'  1  1  ~/sample-project/index.html
+-'  58  0  ~/sample-project/index.html
 
 # History of marks within files (newest to oldest):
 
 > ~/sample-project/newFeature.html
-	"	14	28
-	^	14	29
-	.	14	28
-	+	57	0
+	"	1	2
+	^	14	37
+	.	14	36
+	+	58	0
 	+	13	39
 	+	14	28
+	+	20	36
+	+	14	36
 
 > ~/sample-project/index.html
-	"	58	0
+	"	1	1
 	^	58	1

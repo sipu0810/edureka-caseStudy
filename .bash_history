@@ -28,3 +28,43 @@ git add .
 git commit -m "done"
 git push -u origin master
 history
+ls
+git branch
+git checkout -b branch1
+git branch
+git checkout branch1
+git checkout master
+git checkout -b branch2
+git branch
+ls
+cd sample-project/
+ls
+git checkout branch1
+ls
+vim newFeature.html 
+git checkout branch2
+ls
+vim index.html 
+vim newFeature.html 
+cd
+git add .
+git merge branch1
+ls
+cd sample-project/
+ls
+vim newFeature.html 
+cd
+git branch
+git branch -d branch2
+git branch -d branch1
+git checkout master
+git branch -d branch2
+git branch
+ls
+cd sample-project/
+ls
+vim newFeature.html 
+git checkout -b b1
+cd
+git branch
+git checkout master
