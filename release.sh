@@ -5,7 +5,7 @@ versionLabel=v$1
 
 # establish branch and tag name variables
 masterBranch=master
-releaseBranch=release-$versionLabel
+releaseBranch=releases/release-$versionLabel
  
 # create the release branch from the masterp branch
 git checkout -b $releaseBranch $masterBranch
