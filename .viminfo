@@ -22,18 +22,44 @@
 # Registers:
 
 # File marks:
-'0  42  27  ~/release.sh
-'1  1  2  ~/sample-project/newFeature.html
-'2  1  1  ~/sample-project/index.html
-'3  14  36  ~/sample-project/newFeature.html
-'4  20  3  ~/sample-project/newFeature.html
-'5  58  0  ~/sample-project/index.html
-'6  19  28  ~/sample-project/newFeature.html
-'7  58  6  ~/sample-project/newFeature.html
+'0  1  10  ~/release.sh
+'1  38  27  ~/release.sh
+'2  1  2  ~/sample-project/newFeature.html
+'3  1  1  ~/sample-project/index.html
+'4  14  36  ~/sample-project/newFeature.html
+'5  20  3  ~/sample-project/newFeature.html
+'6  58  0  ~/sample-project/index.html
+'7  19  28  ~/sample-project/newFeature.html
+'8  58  6  ~/sample-project/newFeature.html
 
 # Jumplist (newest first):
+-'  1  10  ~/release.sh
+-'  38  27  ~/release.sh
+-'  1  2  ~/sample-project/newFeature.html
+-'  1  1  ~/sample-project/index.html
+-'  14  36  ~/sample-project/newFeature.html
+-'  20  3  ~/sample-project/newFeature.html
+-'  58  0  ~/sample-project/index.html
+-'  19  28  ~/sample-project/newFeature.html
+-'  58  6  ~/sample-project/newFeature.html
+-'  18  28  ~/sample-project/newFeature.html
+-'  57  6  ~/sample-project/newFeature.html
+-'  56  6  ~/sample-project/newFeature.html
+-'  1  1  ~/sample-project/index.html
+-'  58  0  ~/sample-project/index.html
+-'  1  2  ~/sample-project/newFeature.html
+-'  1  1  ~/sample-project/index.html
+-'  14  36  ~/sample-project/newFeature.html
+-'  20  3  ~/sample-project/newFeature.html
+-'  58  0  ~/sample-project/index.html
+-'  19  28  ~/sample-project/newFeature.html
+-'  58  6  ~/sample-project/newFeature.html
+-'  18  28  ~/sample-project/newFeature.html
+-'  57  6  ~/sample-project/newFeature.html
+-'  56  6  ~/sample-project/newFeature.html
+-'  1  1  ~/sample-project/index.html
+-'  58  0  ~/sample-project/index.html
 -'  42  27  ~/release.sh
--'  1  0  ~/release.sh
 -'  1  2  ~/sample-project/newFeature.html
 -'  1  1  ~/sample-project/index.html
 -'  14  36  ~/sample-project/newFeature.html
@@ -62,10 +88,15 @@
 # History of marks within files (newest to oldest):
 
 > ~/release.sh
-	"	42	27
-	^	42	28
-	.	42	0
-	+	42	0
+	"	1	10
+	^	1	11
+	.	34	19
+	+	38	0
+	+	2	0
+	+	6	40
+	+	10	42
+	+	11	37
+	+	34	19
 
 > ~/sample-project/newFeature.html
 	"	1	2
