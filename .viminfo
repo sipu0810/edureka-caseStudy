@@ -22,18 +22,20 @@
 # Registers:
 
 # File marks:
-'0  8  29  ~/release.sh
-'1  1  10  ~/release.sh
-'2  38  27  ~/release.sh
-'3  1  2  ~/sample-project/newFeature.html
-'4  1  1  ~/sample-project/index.html
-'5  14  36  ~/sample-project/newFeature.html
-'6  20  3  ~/sample-project/newFeature.html
-'7  58  0  ~/sample-project/index.html
-'8  19  28  ~/sample-project/newFeature.html
-'9  58  6  ~/sample-project/newFeature.html
+'0  15  31  ~/create.sh
+'1  8  29  ~/release.sh
+'2  1  10  ~/release.sh
+'3  38  27  ~/release.sh
+'4  1  2  ~/sample-project/newFeature.html
+'5  1  1  ~/sample-project/index.html
+'6  14  36  ~/sample-project/newFeature.html
+'7  20  3  ~/sample-project/newFeature.html
+'8  58  0  ~/sample-project/index.html
+'9  19  28  ~/sample-project/newFeature.html
 
 # Jumplist (newest first):
+-'  15  31  ~/create.sh
+-'  1  0  ~/create.sh
 -'  8  29  ~/release.sh
 -'  1  0  ~/release.sh
 -'  38  27  ~/release.sh
@@ -129,8 +131,21 @@
 -'  58  0  ~/sample-project/index.html
 -'  19  28  ~/sample-project/newFeature.html
 -'  58  6  ~/sample-project/newFeature.html
+-'  8  29  ~/release.sh
+-'  1  0  ~/release.sh
 
 # History of marks within files (newest to oldest):
+
+> ~/create.sh
+	"	15	31
+	^	15	32
+	.	15	31
+	+	16	0
+	+	3	27
+	+	7	28
+	+	12	41
+	+	13	47
+	+	15	31
 
 > ~/release.sh
 	"	8	29
