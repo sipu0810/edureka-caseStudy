@@ -1,7 +1,7 @@
 #! /bin/sh
 
 AUTH_TOKEN=${2:-"personal-access-token"}
-USERNAME=${1:-"sipu0810t"}
+USERNAME=${1:-"sipu0810"}
 REPOSITORIES_FILE_PATH=${3:-"https://github.com/sipu0810/edureka-caseStudy.git"}
 
 while IFS="," read -r repo branches  || [ -n "$repo" ]; do
